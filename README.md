@@ -4,7 +4,7 @@ I'm a passionate developer interested in **systems programming**, **algorithms**
 
 ## 🔧 Technical Skills
 
-**Languages:** Java • C • C++ • Python • HTML  
+**Languages:** Java • C • C++ • Python • HTML • CSS • JavaScript • MySql
 **Areas of Interest:** 
 - Operating Systems & System Design
 - Algorithm Design & Optimization
