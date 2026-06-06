@@ -22,9 +22,6 @@ Building an experimental operating system from scratch in C to practice and lear
 ### 👁️ [Drowsiness Detector](https://github.com/Phyboc/Drowsiness-detector-TechBrigade-)
 A computer vision project built with C++ for real-time drowsiness detection. Part of the TechBrigade initiative.
 
-### 📚 [Git & GitHub Workshop](https://github.com/Phyboc/git-github-workshop)
-A beginner-friendly learning resource covering Git basics, GitHub workflows, branching strategies, and open-source contribution best practices.
-
 ## 🎯 What I'm Learning
 
 - Deep diving into operating system design and implementation
