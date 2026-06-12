@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a passionate developer with a deep interest in **systems programming**, **algorithms**, and **problem-solving**. I love exploring low-level concepts and crafting efficient, elegant solutions to complex challenges.
+I'm a passionate developer with a deep interest in **systems programming**, **algorithms**, and **problem-solving**. I love exploring low-level concepts and crafting efficient, elegant solutions.
 
 ---
 
@@ -65,7 +65,9 @@ I believe in:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phyboc&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Phyboc&color=blue)
 
@@ -79,7 +81,18 @@ I'd love to collaborate or discuss anything related to:
 - 📚 Open-source projects and contributions
 - 💻 Software engineering best practices
 
-Feel free to reach out through GitHub or explore my repositories!
+### 🔗 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) |
+| **Twitter/X** | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com) |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile) |
+| **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/users/yourprofile) |
+| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourprofile) |
+
+Feel free to reach out through any of these channels or explore my repositories!
 
 ---
 
