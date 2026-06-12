@@ -1,48 +1,98 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm a passionate developer interested in **systems programming**, **algorithms**, and **problem-solving**. I love exploring low-level concepts and creating efficient solutions to complex problems.
+I'm a passionate developer with a deep interest in **systems programming**, **algorithms**, and **problem-solving**. I love exploring low-level concepts and crafting efficient, elegant solutions to complex challenges.
+
+---
 
 ## 🔧 Technical Skills
 
-**Languages:** Java • C • C++ • Python • HTML • CSS • JavaScript • MySql
-**Areas of Interest:** 
-- Operating Systems & System Design
-- Algorithm Design & Optimization
-- Puzzle Solving & AI
-- Computer Vision
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Areas of Interest
+- 🖥️ **Operating Systems & System Design** - Deep dive into OS fundamentals
+- ⚡ **Algorithm Design & Optimization** - Creating efficient, scalable solutions
+- 🧠 **Puzzle Solving & AI** - Exploring intelligent problem-solving approaches
+- 👁️ **Computer Vision** - Real-time processing and image analysis
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🧩 [Twiddle-Puzzle-Solver](https://github.com/Phyboc/Twiddle-Puzzle-Solver)
-A Java-based puzzle solver using multiple algorithms including A*, BFS, and Divide & Conquer approaches. Implements advanced search strategies for optimal puzzle solving.
+> A sophisticated puzzle solver leveraging advanced search algorithms
+- **Tech Stack:** Java, A* Algorithm, BFS, Divide & Conquer
+- Implements multiple algorithmic strategies for optimal puzzle solving
+- Advanced search optimization techniques for performance
 
 ### 🖥️ [eXpOS - Experimental Operating System](https://github.com/Phyboc/eXpOS---EXPERIMENTAL-OPERATING-SYSTEM)
-Building an experimental operating system from scratch in C to practice and learn OS fundamentals including memory management, process scheduling, and system calls.
+> Building an operating system from first principles
+- **Tech Stack:** C, Low-level Systems Programming
+- Covers memory management, process scheduling, and system calls
+- Hands-on learning of OS fundamentals and architecture
 
 ### 👁️ [Drowsiness Detector](https://github.com/Phyboc/Drowsiness-detector-TechBrigade-)
-A computer vision project built with C++ for real-time drowsiness detection. Part of the TechBrigade initiative.
-
-## 🎯 What I'm Learning
-
-- Deep diving into operating system design and implementation
-- Exploring different algorithmic approaches for complex problems
-- Computer vision and real-time processing
-- Open-source contribution practices
-
-## 💬 Get in Touch
-
-Feel free to reach out if you want to:
-- Collaborate on interesting projects
-- Discuss algorithms and system design
-- Talk about open-source development
-- Share knowledge and learn together
-
-## 📌 Other Projects
-
-You can find all my work on my [GitHub repositories](https://github.com/Phyboc?tab=repositories). I'm constantly working on new ideas and improving existing projects!
+> Real-time drowsiness detection using computer vision
+- **Tech Stack:** C++, Computer Vision
+- Part of the TechBrigade initiative
+- Implements real-time video processing and analysis
 
 ---
 
-⭐ If you find any of my projects interesting, feel free to star them! 
+## 🎯 What I'm Currently Learning
 
-Happy Coding! 🚀
+- 🔍 Deep diving into operating system design and implementation
+- 🧮 Exploring diverse algorithmic approaches for complex problems
+- 📸 Computer vision and real-time processing techniques
+- 🤝 Open-source contribution best practices and collaboration
+
+---
+
+## 💡 Interests & Philosophy
+
+I believe in:
+- **Writing clean, efficient code** that solves real problems
+- **Continuous learning** and embracing new challenges
+- **Collaboration** and knowledge sharing with the community
+- **Deep understanding** over quick fixes - understanding the "why" matters
+
+---
+
+## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Phyboc&color=blue)
+
+---
+
+## 💬 Let's Connect!
+
+I'd love to collaborate or discuss anything related to:
+- 🤖 Algorithm design and optimization techniques
+- 🏗️ System design and architecture patterns
+- 📚 Open-source projects and contributions
+- 💻 Software engineering best practices
+
+Feel free to reach out through GitHub or explore my repositories!
+
+---
+
+## 📌 More Projects
+
+Check out all my work in my [GitHub repositories](https://github.com/Phyboc?tab=repositories). I'm constantly experimenting with new ideas and refining existing projects!
+
+---
+
+<div align="center">
+
+### If you find my projects interesting, consider giving them a ⭐
+
+**Happy Coding!** 🚀
+
+</div>
