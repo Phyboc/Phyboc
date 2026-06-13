@@ -67,9 +67,21 @@ I believe in:
 
 ## 📈 GitHub Stats & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phyboc&theme=dark)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Phyboc&color=blue)
+### 📊 Overall Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phyboc&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phyboc&theme=dark&hide_border=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phyboc&layout=compact&theme=dark&hide_border=true)
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Phyboc&color=blue&style=flat)
+
+</div>
 
 ---
 
