@@ -15,6 +15,7 @@ I'm a passionate developer with a deep interest in **systems programming**, **al
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://shields.io)
 
 ### Areas of Interest
 - 🖥️ **Operating Systems & System Design** - Deep dive into OS fundamentals
