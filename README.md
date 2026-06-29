@@ -33,12 +33,6 @@ I'm a passionate developer with a deep interest in **systems programming**, **al
 - Implements multiple algorithmic strategies for optimal puzzle solving
 - Advanced search optimization techniques for performance
 
-### 🖥️ [eXpOS - Experimental Operating System](https://github.com/Phyboc/eXpOS---EXPERIMENTAL-OPERATING-SYSTEM)
-> Building an operating system from first principles
-- **Tech Stack:** C, Low-level Systems Programming
-- Covers memory management, process scheduling, and system calls
-- Hands-on learning of OS fundamentals and architecture
-
 ### 👁️ [Drowsiness Detector](https://github.com/Phyboc/Drowsiness-detector-TechBrigade-)
 > Real-time drowsiness detection using computer vision
 - **Tech Stack:** C++, Computer Vision
