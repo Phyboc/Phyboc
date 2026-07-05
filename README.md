@@ -27,17 +27,40 @@ I'm a passionate developer with a deep interest in **systems programming**, **al
 
 ## 🚀 Featured Projects
 
+### 🧠 [UI-Auditer](https://github.com/Phyboc/UI-Auditer)
+> A CLI-based AI auditing assistant that helps solo builders evaluate UI quality and usability gaps early.
+- **Tech Stack:** AI/LLM tooling, CLI workflows
+- **Key Features:**
+  - Automated UI feedback tailored for student and freelance projects
+  - Streamlined command-line flow for rapid iterative audits
+
+### ⚖️ [Legal-Document-Summarizer](https://github.com/Phyboc/Legal-Document-Summarizer)
+> An AI-powered summarization tool that transforms complex legal text into clear, structured, human-readable insights.
+- **Tech Stack:** AI/NLP, document processing
+- **Key Features:**
+  - Converts dense legal documents into concise structured summaries
+  - Improves accessibility and comprehension for non-legal readers
+
+### 🎯 [CareerNavigation-Agent](https://github.com/Phyboc/CareerNavigation-Agent)
+> An AI career guidance agent designed to bridge the skill gap between students and their target career paths.
+- **Tech Stack:** AI agent systems, career intelligence workflows
+- **Key Features:**
+  - Maps learner profiles to role-aligned skill pathways
+  - Provides actionable recommendations for career progression
+
 ### 🧩 [Twiddle-Puzzle-Solver](https://github.com/Phyboc/Twiddle-Puzzle-Solver)
-> A sophisticated puzzle solver leveraging advanced search algorithms
+> A sophisticated puzzle solver leveraging advanced search algorithms.
 - **Tech Stack:** Java, A* Algorithm, BFS, Divide & Conquer
-- Implements multiple algorithmic strategies for optimal puzzle solving
-- Advanced search optimization techniques for performance
+- **Key Features:**
+  - Implements multiple algorithmic strategies for optimal puzzle solving
+  - Advanced search optimization techniques for performance
 
 ### 👁️ [Drowsiness Detector](https://github.com/Phyboc/Drowsiness-detector-TechBrigade-)
-> Real-time drowsiness detection using computer vision
+> A real-time computer vision project for detecting driver drowsiness from live video input.
 - **Tech Stack:** C++, Computer Vision
-- Part of the TechBrigade initiative
-- Implements real-time video processing and analysis
+- **Key Features:**
+  - Real-time video processing and fatigue-state inference
+  - Built as part of the TechBrigade initiative
 
 ---
 
