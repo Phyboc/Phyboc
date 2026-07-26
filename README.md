@@ -27,6 +27,13 @@ I'm a passionate developer with a deep interest in **systems programming**, **al
 
 ## 🚀 Featured Projects
 
+### 🏢 [AutoBoard.ai](https://github.com/Phyboc/AutoBoard.ai)
+> An enterprise IT orchestrator that streamlines employee lifecycle operations from onboarding to offboarding through workflow automation.
+- **Tech Stack:** TypeScript, full-stack web architecture, workflow orchestration
+- **Key Features:**
+  - Built and iterated core orchestration flows for "hire-to-retire" IT operations
+  - Drove rapid repository development through frequent implementation commits across product setup and feature delivery
+
 ### 🧠 [UI-Auditer](https://github.com/Phyboc/UI-Auditer)
 > A CLI-based AI auditing assistant that helps solo builders evaluate UI quality and usability gaps early.
 - **Tech Stack:** AI/LLM tooling, CLI workflows
