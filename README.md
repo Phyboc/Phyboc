@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Sivasubramani K J 👋
 
 **B.Tech Computer Science @ Amrita Vishwa Vidyapeetham**  
@@ -185,4 +185,3 @@ I'm always happy to connect with fellow developers, researchers, and students in
 Thanks for visiting my profile.
 
 </div>
-```
