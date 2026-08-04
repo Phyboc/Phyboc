@@ -113,7 +113,7 @@ A Java application benchmarking multiple search algorithms including BFS, A*, Bi
 
 Includes a Swing-based visualizer for step-by-step solution playback.
 
-**Tech:** `Java` • `A*` • `BFS`
+**Tech:** `Java` • `A*` • `BFS` • `Backtracking` • `Bidirectional algorithms`
 
 ---
 
