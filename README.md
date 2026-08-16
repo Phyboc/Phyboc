@@ -99,10 +99,10 @@ Uses Playwright to analyze **real computed styles** on JavaScript-rendered websi
  
 **Microsoft Agents League Hackathon**
  
--An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
--
--**Tech:** `Next.js` • `React` • `TypeScript`
-+An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+
+**Tech:** `Next.js` • `React` • `TypeScript`
+An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
 
 Highlights:
 - Streaming, grounded AI mentor chat with token-by-token replies (Groq SSE → plain-text streaming).
