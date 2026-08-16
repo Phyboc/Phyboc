@@ -96,14 +96,25 @@ Uses Playwright to analyze **real computed styles** on JavaScript-rendered websi
 ---
 
 ## 🎯 [CareerCompass AI](https://github.com/Phyboc/CareerNavigation-Agent)
-
+ 
 **Microsoft Agents League Hackathon**
+ 
+-An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+-
+-**Tech:** `Next.js` • `React` • `TypeScript`
++An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
 
-An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+Highlights:
+- Streaming, grounded AI mentor chat with token-by-token replies (Groq SSE → plain-text streaming).
+- Multi-agent routing and an intent classifier (career mentor, resume reviewer, study planner).
+- Resume analyzer with section-aware parsing and fuzzy project deduplication (reliable keyword detection).
+- Fast deterministic analysis API (instant ~100ms results) with optional background AI enrichment.
+- Persistence and progress tracking (localStorage score history) and exportable markdown career reports.
+- Robust engineering: Vitest test suite (69 tests), rate limits, upload caps, and production-ready UI redesign (light editorial + dark mode, favicon and dynamic Open Graph image).
 
-**Tech:** `Next.js` • `React` • `TypeScript`
-
----
+Tech: `Next.js 16` • `React 19` • `Tailwind CSS 4` • `JavaScript` • `Groq` (optional LLM enrichment) • `Vitest`
+ 
+ ---
 
 ## 🧩 [Twiddle Puzzle Solver](https://github.com/Phyboc/Twiddle-Puzzle-Solver)
 
