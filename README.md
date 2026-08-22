@@ -10,9 +10,9 @@ Building AI systems, developer tools, and software that solve real-world problem
 
 ## About Me
 
-I'm a Computer Science undergraduate passionate about building software that combines strong engineering principles with practical AI. My interests lie at the intersection of **Software Engineering**, **Artificial Intelligence**, **Natural Language Processing**, and **Developer Tooling**.
+I'm a Computer Science undergraduate passionate about building software that combines strong engineering principles with practical AI. My interests lie at the intersection of **Software Engineering**, **Artificial Intelligence**, and **Developer Productivity**.
 
-I enjoy designing systems end-to-end—from model pipelines and APIs to user-facing applications—and I believe the best software is not only functional but also maintainable, explainable, and built with users in mind.
+I enjoy designing systems end-to-end—from model pipelines and APIs to user-facing applications—and I believe the best software is not only functional but also maintainable, explainable, and built with clarity.
 
 ---
 
@@ -64,7 +64,7 @@ An MCP-powered orchestration platform that transforms AI assistants into HR & IT
 ### Highlights
 - Built 10+ MCP tools integrating Google Workspace, Slack, GitHub, Jira, and AWS
 - Added confirmation guards for destructive operations
-- Live deployment on NitroCloud
+- Live deployment on NitroCloud: https://autoboardai-6a6483dc-brigadiers-amrita-university-coimbatore.app.nitrocloud.ai
 - Interactive React widgets rendered directly inside AI chat
 
 **Tech:** `TypeScript` • `Node.js` • `MCP` • `Zod` • `Next.js`
@@ -100,6 +100,8 @@ Uses Playwright to analyze **real computed styles** on JavaScript-rendered websi
 **Microsoft Agents League Hackathon**
  
 An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+
+**Live deployment:** https://careernavigation-agent.netlify.app/
 
 **Tech:** `Next.js` • `React` • `TypeScript`
 An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
