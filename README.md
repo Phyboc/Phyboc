@@ -1,4 +1,3 @@
-
 # Hi, I'm Sivasubramani K J 👋
 
 **B.Tech Computer Science @ Amrita Vishwa Vidyapeetham**  
@@ -10,18 +9,18 @@ Building AI systems, developer tools, and software that solve real-world problem
 
 ## About Me
 
-I'm a Computer Science undergraduate passionate about building software that combines strong engineering principles with practical AI. My interests lie at the intersection of **Software Engineering**, **Artificial Intelligence**, and **Developer Productivity**.
+I'm a Computer Science undergraduate passionate about building software that combines strong engineering principles with practical AI. My interests lie at the intersection of **Software Engineering**, **Artificial Intelligence**, **Natural Language Processing**, and **Developer Productivity**.
 
-I enjoy designing systems end-to-end—from model pipelines and APIs to user-facing applications—and I believe the best software is not only functional but also maintainable, explainable, and built with clarity.
+I enjoy designing systems end-to-end—from model pipelines and APIs to user-facing applications—and I believe the best software is maintainable, explainable, and built with clarity.
 
 ---
 
 ## Currently Working On
 
-- ⚖️ Fine-tuning **BART** for abstractive summarization of Indian Supreme Court judgments
+- ⚖️ Improving legal-document understanding with section classification and abstractive summarization for Indian Supreme Court judgments
 - 🤖 Exploring **Agentic AI** with the Model Context Protocol (MCP)
-- 🛠 Building developer tools that improve engineering workflows
-- 📚 Learning backend engineering, distributed systems, and cloud deployment
+- 🛠 Building developer tools that improve engineering workflows and accessibility
+- 📚 Learning backend engineering, distributed systems, testing, and cloud deployment
 - 🎯 Preparing for software engineering internships and AI-focused opportunities
 
 ---
@@ -41,6 +40,7 @@ I enjoy designing systems end-to-end—from model pipelines and APIs to user-fac
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-8B5CF6?style=flat)
 ![BART](https://img.shields.io/badge/BART-NLP-blueviolet?style=flat)
+![Groq](https://img.shields.io/badge/Groq-LLM-black?style=flat)
 
 ### Frameworks & Tools
 
@@ -49,6 +49,7 @@ I enjoy designing systems end-to-end—from model pipelines and APIs to user-fac
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -59,15 +60,17 @@ I enjoy designing systems end-to-end—from model pipelines and APIs to user-fac
 
 **Enterprise Agentic AI • Amrita × Nitrostack Hackathon**
 
-An MCP-powered orchestration platform that transforms AI assistants into HR & IT automation agents capable of onboarding and offboarding employees across enterprise services.
+An MCP server that turns compatible AI assistants into HR and IT orchestration agents for employee onboarding and offboarding.
 
 ### Highlights
-- Built 10+ MCP tools integrating Google Workspace, Slack, GitHub, Jira, and AWS
-- Added confirmation guards for destructive operations
-- Live deployment on NitroCloud: https://autoboardai-6a6483dc-brigadiers-amrita-university-coimbatore.app.nitrocloud.ai
-- Interactive React widgets rendered directly inside AI chat
 
-**Tech:** `TypeScript` • `Node.js` • `MCP` • `Zod` • `Next.js`
+- Built 10+ MCP tools for Google Workspace, Slack, GitHub, Jira, AWS, training, email, and ticket workflows
+- Supports incremental onboarding and offboarding drafts with interactive React widgets
+- Includes confirmation guards for destructive operations, audit logging, execution tracking, and health monitoring
+- Provides both STDIO and HTTP SSE transports
+- Live MCP endpoint: https://autoboardai-6a6483dc-brigadiers-amrita-university-coimbatore.app.nitrocloud.ai
+
+**Tech:** `TypeScript` • `Node.js` • `MCP` • `Nitrostack` • `Zod` • `Next.js` • `React`
 
 ---
 
@@ -75,11 +78,11 @@ An MCP-powered orchestration platform that transforms AI assistants into HR & IT
 
 **Natural Language Processing**
 
-An AI-powered summarization system for Indian Supreme Court judgments.
+An AI-powered system for turning legal documents into concise, understandable summaries. The project is being extended with section-classifier improvements to better structure and interpret legal text.
 
-Built using a hybrid NLP pipeline combining **TextRank pruning**, **BART fine-tuning**, **hierarchical summarization**, and **Cross-Encoder citation verification** to generate concise, faithful legal summaries.
+The broader research direction combines **TextRank pruning**, **BART fine-tuning**, hierarchical summarization, and citation-aware verification for faithful summaries of Indian Supreme Court judgments.
 
-**Tech:** `Python` • `HuggingFace` • `BART` • `FastAPI` • `Next.js`
+**Tech:** `Python` • `HuggingFace` • `BART` • `React` • `Vite` • `NLP`
 
 ---
 
@@ -87,72 +90,79 @@ Built using a hybrid NLP pipeline combining **TextRank pruning**, **BART fine-tu
 
 **Developer Tool**
 
-A CLI tool that evaluates webpages against multiple audience personas including Gen-Z, Elderly, Corporate, Minimalist, and Neurodivergent users.
+A Python CLI that evaluates webpages against five audience personas: Gen-Z, Elderly, Corporate, Minimalist, and Neurodivergent.
 
-Uses Playwright to analyze **real computed styles** on JavaScript-rendered websites instead of relying on static HTML, producing actionable reports suitable for development workflows.
+UI-Auditer launches a real Chromium browser with Playwright, analyzes computed styles on JavaScript-rendered pages, scores color, typography, density, motion, and interactivity, and produces actionable terminal reports.
 
-**Tech:** `Python` • `Playwright` • `Click` • `Rich`
+### Highlights
+
+- Rule-based audience scoring with persona-specific dealbreakers and A–F grades
+- Optional AI-generated CSS fixes through OpenRouter or Groq
+- CI-friendly JSON output with `--json`
+- Custom CSS output paths with `--output` / `-o`
+- Offline-first core functionality with a pip-installable CLI
+- Test coverage for persona loading, scoring, dealbreakers, and extraction
+
+**Tech:** `Python 3.11+` • `Playwright` • `Click` • `Rich` • `Requests` • `pytest`
 
 ---
 
 ## 🎯 [CareerCompass AI](https://github.com/Phyboc/CareerNavigation-Agent)
- 
+
 **Microsoft Agents League Hackathon**
- 
+
 An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
 
-**Live deployment:** https://careernavigation-agent.netlify.app/
+**[Live deployment](https://careernavigation-agent.netlify.app/)**
 
-**Tech:** `Next.js` • `React` • `TypeScript`
-An AI-powered career guidance platform that analyzes learner readiness, identifies skill gaps, and generates personalized learning roadmaps with structured weekly study plans.
+### Highlights
 
-Highlights:
-- Streaming, grounded AI mentor chat with token-by-token replies (Groq SSE → plain-text streaming).
-- Multi-agent routing and an intent classifier (career mentor, resume reviewer, study planner).
-- Resume analyzer with section-aware parsing and fuzzy project deduplication (reliable keyword detection).
-- Fast deterministic analysis API (instant ~100ms results) with optional background AI enrichment.
-- Persistence and progress tracking (localStorage score history) and exportable markdown career reports.
-- Robust engineering: Vitest test suite (69 tests), rate limits, upload caps, and production-ready UI redesign (light editorial + dark mode, favicon and dynamic Open Graph image).
+- Streaming, profile-grounded AI mentor chat using Groq SSE
+- Multi-agent routing for career mentoring, resume review, and study planning
+- Conversational profile intake that asks one question at a time
+- Resume analyzer with section-aware parsing, structured project extraction, and fuzzy deduplication
+- Fast deterministic analysis with optional background AI enrichment
+- Ten career paths, project recommendations, four-phase roadmaps, weekly plans, and exportable Markdown reports
+- Local progress history, rate limits, upload caps, timeouts, and deterministic fallbacks when AI is unavailable
+- Vitest coverage for the analysis engine, resume extractor, AI provider, intake flow, and rate limiter
 
-Tech: `Next.js 16` • `React 19` • `Tailwind CSS 4` • `JavaScript` • `Groq` (optional LLM enrichment) • `Vitest`
- 
- ---
+**Tech:** `Next.js 16` • `React 19` • `Tailwind CSS 4` • `JavaScript` • `Groq` • `Vitest`
+
+---
 
 ## 🧩 [Twiddle Puzzle Solver](https://github.com/Phyboc/Twiddle-Puzzle-Solver)
 
 **Algorithms & Search**
 
-A Java application benchmarking multiple search algorithms including BFS, A*, Bidirectional BFS, Backtracking, Dynamic Programming, and Divide & Conquer with pruning and memoization.
+A Java implementation of the Twiddle puzzle with both CLI and Swing interfaces. It compares multiple approaches for solving an N×N board where moves rotate a 2×2 sub-square counter-clockwise.
 
-Includes a Swing-based visualizer for step-by-step solution playback.
+Includes BFS, A*, bidirectional BFS, iterative-deepening backtracking, top-down DP, MDF DP, and spatial, cycle, and depth-based divide-and-conquer variants. A phase-three report documents the algorithmic work and comparisons.
 
-**Tech:** `Java` • `A*` • `BFS` • `Backtracking` • `Bidirectional algorithms`
+**Tech:** `Java` • `BFS` • `A*` • `Bidirectional BFS` • `Dynamic Programming` • `Backtracking` • `Java Swing`
 
 ---
 
 ## 🚗 [Drowsiness Detector](https://github.com/Phyboc/Drowsiness-detector-TechBrigade-)
 
-**Computer Vision**
+**Computer Vision & IoT • SmartCityX Hackathon**
 
-A real-time driver drowsiness detection system using ESP32-CAM with a computer vision model trained using Edge Impulse.
+A driver-safety prototype using ESP32-CAM, ESP32-DevKit, and an Edge Impulse eye-blink model. If the driver's eyes remain closed for too long, the system triggers a buzzer and sends remote alerts through Blynk Cloud.
 
-Provides instant alerts using a buzzer and LED for improved road safety.
+Includes Wokwi simulation, a Blynk monitoring dashboard, an Edge Impulse dataset, and circuit documentation.
 
-**Tech:** `ESP32` • `Edge Impulse` • `Computer Vision`
+**Tech:** `ESP32-CAM` • `ESP32` • `Edge Impulse` • `Arduino` • `Wokwi` • `Blynk`
 
 ---
 
 # Exploring
 
-I'm currently exploring:
-
-- 🤖 Large Language Models
-- 🧠 Agentic AI & MCP
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🌐 Backend Engineering
-- ☁️ Cloud Deployment
-- ⚙️ Distributed Systems
-- 📖 Research-driven AI
+- 🤖 Large Language Models and reliable AI applications
+- 🧠 Agentic AI, MCP, and tool-using systems
+- 🔍 Retrieval-Augmented Generation and document intelligence
+- 🌐 Backend engineering and API design
+- ☁️ Cloud deployment and CI/CD
+- ⚙️ Distributed systems and observability
+- 📖 Research-driven software development
 
 ---
 
@@ -186,7 +196,7 @@ Whether it's an NLP pipeline, a developer tool, or an AI agent, I prefer designi
 
 I'm always happy to connect with fellow developers, researchers, and students interested in software engineering, AI, NLP, and developer tooling.
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sivasubramani-k-j-39424835a/
+- 💼 LinkedIn: https://www.linkedin.com/in/sivasubramani-k-j-39424835/
 - 📧 Email: sivasubramanikj@gmail.com
 
 ---
